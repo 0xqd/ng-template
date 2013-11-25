@@ -7,8 +7,11 @@ npm install;
 grunt server;
 ```
 
-## Running tests
+## Features
+  * E2E test using [Protractor](https://github.com/angular/protractor) instead of angular scenario.
+  * Unit test using [Karma](https://github.com/karma-runner/karma).
 
+## Running tests
 ```
 grunt test;
 ```
