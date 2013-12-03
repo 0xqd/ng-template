@@ -3,6 +3,7 @@
 
 ## Quick start
 ```
+// clone the ng-template
 bower install;
 npm install;
 grunt server;
